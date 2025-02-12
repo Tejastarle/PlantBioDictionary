@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658848944660",
+    "project_id": "plantbiodictionary",
+    "storage_bucket": "plantbiodictionary.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658848944660:android:e62e17bc04917c26f74d01",
+        "android_client_info": {
+          "package_name": "org.tejas.plantbiodictionary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqKdOEG-ygUsQ5TpRTY62E55t7XeKQcwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
